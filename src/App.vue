@@ -5,7 +5,7 @@
             <!--el-aside：构建左侧菜单-->
             <el-aside width="200px" style="background-color: rgb(238, 241, 246)">
                 <!--
-                    el-menu: 左侧菜单内容，常用属性：
+                   el-menu: 左侧菜单内容，常用属性：
                       :default-openeds: 默认展开的菜单，通过菜单的index值关联
                       :default-active: 默认选中的选项，通过菜单的index值关联
                     -->
